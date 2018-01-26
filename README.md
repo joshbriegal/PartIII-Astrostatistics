@@ -2,7 +2,7 @@
 Home Page for Astrostatistics Course, Part III Mathematical Tripos
 
 Lent Term
-Tuesday, Thursday & Saturday at 12 noon.
+Tuesday, Thursday & Saturday at 12 noon. CMS **Meeting Room 5**.
 
 **IMPORTANT: Starting Saturday, 26 Jan, we will meet in a bigger room, MR5, to better accomodate the attendance.**
 
