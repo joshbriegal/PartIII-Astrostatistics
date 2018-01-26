@@ -1,6 +1,8 @@
 # PartIII-Astrostatistics
 Home Page for Astrostatistics Course, Part III Mathematical Tripos
 
+Lent Term
+Tuesday, Thursday & Saturday at 12 noon.
 **IMPORTANT: Starting Saturday, 26 Jan, we will meet in a bigger room, MR5, to better accomodate the attendance.**
 
 Office Hours: Fridays @ 1pm
