@@ -1,7 +1,9 @@
 # PartIII-Astrostatistics
 Home Page for Astrostatistics Course, Part III Mathematical Tripos
 
-Office Hours: 
+**IMPORTANT: Starting Saturday, 26 Jan, we will meet in a bigger room, MR5, to better accomodate the attendance.**
+
+Office Hours: Fridays @ 1pm
 Statistical Laboratory
 CMS Pavilion D, Office 1.07
 
