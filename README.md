@@ -34,6 +34,7 @@ Lecture 06 (01 February) slides uploaded.  Covered:
   * Rant about minimum chi^2 methods
   
 Lecture 07 (03 February) slides uploaded. Covered:
+  * Statistical Modeling wisdom
   * Ordinary Least Squares (OLS) and Generalised Least Squares (GLS) solutions to Linear Regression
   * Introduction to structural modeling to account for x-errors and intrinsic dispersion (TBC)
 
