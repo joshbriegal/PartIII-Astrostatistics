@@ -28,5 +28,13 @@ Lecture 05 (27 January) slides uploaded.  Covered:
   * Maximum likelihood estimators, frequentist properties, Fisher Matrix and Cramer-Rao bround
   * F & B: Chapter 3, or
   * Ivezić: Chapter 4
+  
+Lecture 06 (01 February) slides uploaded.  Covered:
+  * Demo about Normal-Normal latent variable model (code/plots to be uploaded)
+  * Rant about minimum chi^2 methods
+  
+Lecture 07 (03 February) slides uploaded. Covered:
+  * Ordinary Least Squares (OLS) and Generalised Least Squares (GLS) solutions to Linear Regression
+  * Introduction to structural modeling to account for x-errors and intrinsic dispersion (TBC)
 
 Under Construction...
