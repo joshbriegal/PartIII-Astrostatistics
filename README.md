@@ -11,8 +11,13 @@ Statistical Laboratory
 CMS Pavilion D, Office 1.07
 
 Lecture 01 (18 January) has been uploaded!
+  * Introduction to Astrostatistics
+  * Introduction to Case Studies
 
 Lecture 02 (20 January) has been uploaded!
+  * Introduction to Astronomical Data Types
+  * Overview of Case Study on Modelling Stellar Spectra with Gaussian Processes
+  * Reference: Czekala et al. 2017, The Astrophysical Journal, 840 49
 
 Lecture 03 (23 January) covered material on probability from  
   * Feigelson & Babu (F & B): Chapter 2, or 
