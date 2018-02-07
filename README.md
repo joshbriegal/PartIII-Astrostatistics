@@ -38,4 +38,10 @@ Lecture 07 (03 February) slides uploaded. Covered:
   * Ordinary Least Squares (OLS) and Generalised Least Squares (GLS) solutions to Linear Regression
   * Introduction to structural modeling to account for x-errors and intrinsic dispersion (TBC)
 
+Lecture 08 (06 February) slides uploaded.  Covered:
+  * Multivariate Normal Distribution.  See also Ivezić, Chapter 3
+  * Probabilistic Generative / Forward Modeling 
+  * example: Linear Regression with (y,x) measurement errors and intrinsic dispersion
+  * reference: Kelly et al. 2007, The Astrophysical Journal, 665, 1489
+  
 Under Construction...
