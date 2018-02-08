@@ -30,9 +30,14 @@ Lecture 04 (25 January) slides uploaded. Covered:
   
 Lecture 05 (27 January) slides uploaded.  Covered:
   * Frequentist properties of estimators (unbiasedness, MSE, consistency, asymptotics)
-  * Maximum likelihood estimators, frequentist properties, Fisher Matrix and Cramer-Rao bround
+  * Maximum likelihood estimators, frequentist properties, Fisher Matrix and Cramer-Rao bound
   * F & B: Chapter 3, or
   * Ivezić: Chapter 4
+  
+Lecture 07 (30 January) slides uploaded.  Covered:
+  * Multi-parameter maximum likelihood, Fisher Matrix, and Cramer-Rao bound
+  * Example: Fitting a Gaussian to data
+  * Example: Fitting a Gaussian to data with measurement errors (Normal-Normal model)
   
 Lecture 06 (01 February) slides uploaded.  Covered:
   * Demo about Normal-Normal latent variable model (code/plots to be uploaded)
