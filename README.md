@@ -34,24 +34,28 @@ Lecture 05 (27 January) slides uploaded.  Covered:
   * F & B: Chapter 3, or
   * Ivezić: Chapter 4
   
-Lecture 07 (30 January) slides uploaded.  Covered:
+Lecture 06 (30 January) slides uploaded.  Covered:
   * Multi-parameter maximum likelihood, Fisher Matrix, and Cramer-Rao bound
   * Example: Fitting a Gaussian to data
   * Example: Fitting a Gaussian to data with measurement errors (Normal-Normal model)
   
-Lecture 06 (01 February) slides uploaded.  Covered:
+Lecture 07 (01 February) slides uploaded.  Covered:
   * Demo about Normal-Normal latent variable model (code/plots to be uploaded)
   * Rant about minimum chi^2 methods
   
-Lecture 07 (03 February) slides uploaded. Covered:
+Lecture 08 (03 February) slides uploaded. Covered:
   * Statistical Modeling wisdom
   * Ordinary Least Squares (OLS) and Generalised Least Squares (GLS) solutions to Linear Regression
   * Introduction to structural / Latent Variable modeling to account for x-errors and intrinsic dispersion (TBC)
 
-Lecture 08 (06 February) slides uploaded.  Covered:
+Lecture 09 (06 February) slides uploaded.  Covered:
   * Multivariate Normal Distribution.  See also Ivezić, Chapter 3
   * Probabilistic Generative / Forward Modeling of Data
   * example: Linear Regression with (y,x) measurement errors and intrinsic dispersion
   * reference: Kelly et al. 2007, The Astrophysical Journal, 665, 1489
+  
+Lecture 10 (08 February) slides uploaded. Also Covered:
+  * Frequentist vs. Bayesian probability
+  * confidence vs. credible intervals
   
 Under Construction...
