@@ -12,6 +12,10 @@ Office Hours: Fridays @ 1pm
 Statistical Laboratory
 CMS Pavilion D, Office 1.07
 
+F&B = Feigelson & Babu. "Modern Statistical Methods for Astronomy"
+Ivezić = Ivezić, Connolly, VanderPlas & Gray. "Statistics, Data Mining, and Machine Learning in Astronomy"
+Both texts are freely available through the Cambridge Library website.
+
 Lecture 01 (18 January) has been uploaded!
   * Introduction to Astrostatistics
   * Introduction to Case Studies
