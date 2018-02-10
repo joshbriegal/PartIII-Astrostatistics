@@ -68,4 +68,9 @@ Lecture 10 (08 February) slides uploaded. Also Covered:
   * Frequentist vs. Bayesian probability
   * confidence vs. credible intervals
   
+Lecture 11 (10 February) slides uploaded.  Also covered:
+  * Frequentist vs. Bayesian results for simple Gaussian
+  * Null hypothesis testing
+  * Bayesian inference of simple Gaussian data with conjugate prior (Gelman BDA Ch 2-3)
+  
 Under Construction...
