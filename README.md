@@ -6,7 +6,7 @@ Tuesday, Thursday & Saturday at 12 noon. CMS **Meeting Room 5**.
 
 **IMPORTANT: Starting Saturday, 27 Jan, we will meet in a bigger room, MR5, to better accomodate the attendance.**
 
-** Example Sheet 1 uploaded! Example class on Fri, 16 Feb at 2:30pm in MR5. HAVE FUN! **
+**Example Sheet 1 uploaded! Example class on Fri, 16 Feb at 2:30pm in MR5. HAVE FUN!**
 
 Office Hours: Fridays @ 1pm
 Statistical Laboratory
