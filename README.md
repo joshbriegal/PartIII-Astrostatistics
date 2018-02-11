@@ -70,7 +70,8 @@ Lecture 10 (08 February) slides uploaded. Also Covered:
   
 Lecture 11 (10 February) slides uploaded.  Also covered:
   * Frequentist vs. Bayesian results for simple Gaussian
-  * Null hypothesis testing
+  * Null hypothesis testing, p-values
+  * Likelihood principle, sufficient statistics, conjugate prior
   * Bayesian inference of simple Gaussian data with conjugate prior (Gelman BDA Ch 2-3)
   
 Under Construction...
