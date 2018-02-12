@@ -20,58 +20,63 @@ Ivezić = Ivezić, Connolly, VanderPlas & Gray. "Statistics, Data Mining, and Ma
 Both texts are freely available through the Cambridge Library website.
 
 **Week 1**  
-Lecture 01 (18 January) has been uploaded!
+Lecture 01 (Thu 18 Jan) has been uploaded!
   * Introduction to Astrostatistics
   * Introduction to Case Studies
 
-Lecture 02 (20 January) has been uploaded!
+Lecture 02 (Sat 20 Jan) has been uploaded!
   * Introduction to Astronomical Data Types
   * Overview of Case Study on Modelling Stellar Spectra with Gaussian Processes
   * Reference: Czekala et al. 2017, The Astrophysical Journal, 840 49
 
-Lecture 03 (23 January) covered material on probability from  
+Lecture 03 (Tue 23 Jan) covered material on probability from  
   * Feigelson & Babu (F & B): Chapter 2, or 
   * Ivezić: Chapter 3 (through Ch 3.1.3)
 
-Lecture 04 (25 January) slides uploaded. Covered:
+**Week 2**  
+Lecture 04 (Thu 25 Janu) slides uploaded. Covered:
   * Limit theorems and started statistical inference (up to maximum likelihood)
   * F & B: finished Ch 2, start Ch 3, or
   * Ivezić: finished Ch 3, start Ch 4 
   
-Lecture 05 (27 January) slides uploaded.  Covered:
+Lecture 05 (Sat 27 Jan) slides uploaded.  Covered:
   * Frequentist properties of estimators (unbiasedness, MSE, consistency, asymptotics)
   * Maximum likelihood estimators, frequentist properties, Fisher Matrix and Cramer-Rao bound
   * F & B: Chapter 3, or
   * Ivezić: Chapter 4
   
-Lecture 06 (30 January) slides uploaded.  Covered:
+Lecture 06 (Tue 30 Jan) slides uploaded.  Covered:
   * Multi-parameter maximum likelihood, Fisher Matrix, and Cramer-Rao bound
   * Example: Fitting a Gaussian to data
   * Example: Fitting a Gaussian to data with measurement errors (Normal-Normal model)
-  
-Lecture 07 (01 February) slides uploaded.  Covered:
+
+**Week 3**  
+Lecture 07 (Thu 01 Feb) slides uploaded.  Covered:
   * Demo about Normal-Normal latent variable model (code/plots to be uploaded)
   * Rant about minimum chi^2 methods
   
-Lecture 08 (03 February) slides uploaded. Covered:
+Lecture 08 (Sat 03 Feb) slides uploaded. Covered:
   * Statistical Modeling wisdom
   * Ordinary Least Squares (OLS) and Generalised Least Squares (GLS) solutions to Linear Regression
   * Introduction to structural / Latent Variable modeling to account for x-errors and intrinsic dispersion (TBC)
 
-Lecture 09 (06 February) slides uploaded.  Covered:
+Lecture 09 (Tue 06 Feb) slides uploaded.  Covered:
   * Multivariate Normal Distribution.  See also Ivezić, Chapter 3
   * Probabilistic Generative / Forward Modeling of Data
   * example: Linear Regression with (y,x) measurement errors and intrinsic dispersion
   * reference: Kelly et al. 2007, The Astrophysical Journal, 665, 1489
-  
-Lecture 10 (08 February) slides uploaded. Also Covered:
+
+**Week 4**
+Lecture 10 (Thu 08 Feb) slides uploaded. Also Covered:
   * Frequentist vs. Bayesian probability
   * confidence vs. credible intervals
   
-Lecture 11 (10 February) slides uploaded.  Also covered:
+Lecture 11 (Sat 10 Feb) slides uploaded.  Also covered:
   * Frequentist vs. Bayesian results for simple Gaussian
   * Null hypothesis testing, p-values
   * Likelihood principle, sufficient statistics, conjugate prior
   * Bayesian inference of simple Gaussian data with conjugate prior (Gelman BDA Ch 2-3)
   
+Lecture 12 (Tue 13 Feb)...
+
 Under Construction...
