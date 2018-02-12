@@ -66,7 +66,7 @@ Lecture 09 (Tue 06 Feb) slides uploaded.  Covered:
   * example: Linear Regression with (y,x) measurement errors and intrinsic dispersion
   * reference: Kelly et al. 2007, The Astrophysical Journal, 665, 1489
 
-**Week 4**
+**Week 4**  
 Lecture 10 (Thu 08 Feb) slides uploaded. Also Covered:
   * Frequentist vs. Bayesian probability
   * confidence vs. credible intervals
@@ -78,5 +78,7 @@ Lecture 11 (Sat 10 Feb) slides uploaded.  Also covered:
   * Bayesian inference of simple Gaussian data with conjugate prior (Gelman BDA Ch 2-3)
   
 Lecture 12 (Tue 13 Feb)...
+
+**Week 5**  
 
 Under Construction...
