@@ -14,12 +14,12 @@ CMS Pavilion D, Office 1.07
 
 Recommended Texts:
 
-F&B = Feigelson & Babu. "Modern Statistical Methods for Astronomy"
-
+F&B = Feigelson & Babu. "Modern Statistical Methods for Astronomy"  
 Ivezić = Ivezić, Connolly, VanderPlas & Gray. "Statistics, Data Mining, and Machine Learning in Astronomy"
 
 Both texts are freely available through the Cambridge Library website.
 
+**Week 1**  
 Lecture 01 (18 January) has been uploaded!
   * Introduction to Astrostatistics
   * Introduction to Case Studies
