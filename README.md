@@ -85,8 +85,8 @@ Lecture 12 (Tue 13 Feb)...
 **Week 5**  
 Bayesian Computation and Sampling Algorithms
   * Case Study: Bayesian Estimates of the Milky Way Galaxy Mass
-  * reference: Patel, Besla & Mandel. 2017, MNRAS, 468, 3428
-  *     MNRAS = Monthly Notices of the Royal Astronomical Society
+  * reference: Patel, Besla & Mandel. 2017, MNRAS, 468, 3428  
+       MNRAS = Monthly Notices of the Royal Astronomical Society
 
 **Week 6**  
 Probabilistic Graphical Models & Hierarchical Bayes
