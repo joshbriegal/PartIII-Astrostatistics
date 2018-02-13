@@ -13,12 +13,11 @@ Office Hours: Fridays @ 1pm
 Statistical Laboratory  
 CMS Pavilion D, Office 1.07  
 
-Recommended Texts:
+Recommended Texts:  
+(Both texts are freely available through the Cambridge Library website.)
 
 F&B = Feigelson & Babu. "Modern Statistical Methods for Astronomy"  
 Ivezić = Ivezić, Connolly, VanderPlas & Gray. "Statistics, Data Mining, and Machine Learning in Astronomy"
-
-Both texts are freely available through the Cambridge Library website.
 
 **Week 1**  
 Lecture 01 (Thu 18 Jan) has been uploaded!
@@ -53,16 +52,16 @@ Lecture 06 (Tue 30 Jan) slides uploaded.  Covered:
 
 **Week 3**  
 Lecture 07 (Thu 01 Feb) slides uploaded.  Covered:
-  * Demo about Normal-Normal latent variable model (code/plots to be uploaded)
+  * Demo about fitting Normal-Normal latent variable model with MLE
   * Rant about minimum chi^2 methods
   
 Lecture 08 (Sat 03 Feb) slides uploaded. Covered:
   * Statistical Modeling wisdom
   * Ordinary Least Squares (OLS) and Generalised Least Squares (GLS) solutions to Linear Regression
-  * Introduction to structural / Latent Variable modeling to account for x-errors and intrinsic dispersion (TBC)
+  * Introduction to structural / Latent Variable modeling to account for (y,x)-errors and intrinsic dispersion (TBC)
 
 Lecture 09 (Tue 06 Feb) slides uploaded.  Covered:
-  * Multivariate Normal Distribution.  See also Ivezić, Chapter 3
+  * Review Multivariate Normal Distribution.  See also Ivezić, Chapter 3
   * Probabilistic Generative / Forward Modeling of Data
   * example: Linear Regression with (y,x) measurement errors and intrinsic dispersion
   * reference: Kelly et al. 2007, The Astrophysical Journal, 665, 1489
@@ -79,7 +78,27 @@ Lecture 11 (Sat 10 Feb) slides uploaded.  Also covered:
   * Bayesian inference of simple Gaussian data with conjugate prior (Gelman BDA Ch 2-3)
   
 Lecture 12 (Tue 13 Feb)...
+  * Multi-parameter Bayesian analysis example
+  * Monte Carlo Estimation & Sampling
+  * Importance Sampling
 
 **Week 5**  
+Bayesian Computation and Sampling Algorithms
+  * Case Study: Bayesian Estimates of the Milky Way Galaxy Mass
+  * reference: Patel, Besla & Mandel. 2017, MNRAS, 468, 3428
+  *     (MNRAS = Monthly Notices of the Royal Astronomical Society)
+
+**Week 6**  
+Probabilistic Graphical Models & Hierarchical Bayes
+  * Case Study: Hierachical Bayesian Models for Type Ia Supernova Inference
+  * reference: Mandel et al. 2017, The Astrophysical Journal, 842, 93.
+
+**Week 7**  
+Gaussian Processes in Astrophysics
+  * Case Study: Disentangling Time Series Spectra with Gaussian Processes: Applications to Radial Velocity Analysis
+  * reference: Czekala et al. 2017, The Astrophysical Journal, 840, 49.
+
+**Week 8**
+Approximate Bayesian Computation
 
 Under Construction...
