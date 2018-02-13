@@ -78,7 +78,7 @@ Lecture 11 (Sat 10 Feb) slides uploaded.  Also covered:
   * Bayesian inference of simple Gaussian data with conjugate prior (Gelman BDA Ch 2-3)
   
 Lecture 12 (Tue 13 Feb)...
-  * Multi-parameter Bayesian analysis example (Gelman BDA, Sec 3.2-3.3)
+  * Multi-parameter Bayesian analysis example (Gelman BDA, Sec 3.2-3.3),  
     Conjugate and "non-informative" prior
   * Posterior summaries & estimation
   * Monte Carlo Sampling
