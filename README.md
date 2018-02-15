@@ -87,7 +87,7 @@ Lecture 12 (Tue 13 Feb)...
 **Week 5**  
 Bayesian Computation and Sampling Algorithms  
 
-Lecture 12 (Thu 15 Feb).  Covered:
+Lecture 13 (Thu 15 Feb).  Covered:
   * Monte Carlo error
   * Importance Sampling
   * Case Study: Bayesian Estimates of the Milky Way Galaxy Mass
