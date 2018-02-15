@@ -80,7 +80,7 @@ Lecture 11 (Sat 10 Feb) slides uploaded.  Also covered:
 Lecture 12 (Tue 13 Feb)...
   * Multi-parameter Bayesian analysis example (Gelman BDA, Sec 3.2-3.3),  
     Conjugate and "non-informative" prior
-  * Posterior summaries & estimation, kerndel density estimate (KDE)
+  * Posterior summaries & estimation, kernel density estimate (KDE)
   * Monte Carlo Sampling
   * Importance Sampling
 
