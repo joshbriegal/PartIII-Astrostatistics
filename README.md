@@ -85,7 +85,11 @@ Lecture 12 (Tue 13 Feb)...
   * Importance Sampling
 
 **Week 5**  
-Bayesian Computation and Sampling Algorithms
+Bayesian Computation and Sampling Algorithms  
+
+Lecture 12 (Thu 15 Feb).  Covered:
+  * Monte Carlo error
+  * Importance Sampling
   * Case Study: Bayesian Estimates of the Milky Way Galaxy Mass
   * reference: Patel, Besla & Mandel. 2017, MNRAS, 468, 3428  
        MNRAS = Monthly Notices of the Royal Astronomical Society
