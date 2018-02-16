@@ -105,7 +105,7 @@ Gaussian Processes in Astrophysics
   Disentangling Time Series Spectra with Gaussian Processes: Applications to Radial Velocity Analysis
   * reference: Czekala et al. 2017, The Astrophysical Journal, 840, 49.
 
-**Week 8**
+**Week 8**  
 Approximate Bayesian Computation
 
 Under Construction...
