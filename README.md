@@ -95,6 +95,7 @@ Lecture 13 (Thu 15 Feb).  Covered:
        MNRAS = Monthly Notices of the Royal Astronomical Society
        
 Lecture 14 (Sat 17 Feb).  Covered:
+  * Kernel Density Estimation (F & B, Ch 6)
   * Review Bayesian Estimates of the Milky Way Galaxy Mass Case Study in more detail
   * Code Demonstration using Importance Sampling
   * Highest Posterior Density credible intervals
