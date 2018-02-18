@@ -93,6 +93,11 @@ Lecture 13 (Thu 15 Feb).  Covered:
   * Case Study: Bayesian Estimates of the Milky Way Galaxy Mass
   * reference: Patel, Besla & Mandel. 2017, MNRAS, 468, 3428  
        MNRAS = Monthly Notices of the Royal Astronomical Society
+       
+Lecture 14 (Sat 17 Feb).  Covered:
+  * Review Bayesian Estimates of the Milky Way Galaxy Mass Case Study in more detail
+  * Code Demonstration using Importance Sampling
+  * Highest Posterior Density credible intervals
 
 **Week 6**  
 Probabilistic Graphical Models & Hierarchical Bayes
