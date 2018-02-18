@@ -34,7 +34,7 @@ Lecture 03 (Tue 23 Jan) covered material on probability from
   * Ivezić: Chapter 3 (through Ch 3.1.3)
 
 **Week 2**  
-Lecture 04 (Thu 25 Janu) slides uploaded. Covered:
+Lecture 04 (Thu 25 Jan) slides uploaded. Covered:
   * Limit theorems and started statistical inference (up to maximum likelihood)
   * F & B: finished Ch 2, start Ch 3, or
   * Ivezić: finished Ch 3, start Ch 4 
@@ -80,7 +80,7 @@ Lecture 11 (Sat 10 Feb) slides uploaded.  Also covered:
 Lecture 12 (Tue 13 Feb)...
   * Multi-parameter Bayesian analysis example (Gelman BDA, Sec 3.2-3.3),  
     Conjugate and "non-informative" prior
-  * Posterior summaries & estimation, kernel density estimate (KDE)
+  * Posterior summaries & estimation
   * Monte Carlo Sampling
   * Importance Sampling
 
@@ -88,6 +88,7 @@ Lecture 12 (Tue 13 Feb)...
 Bayesian Computation and Sampling Algorithms  
 
 Lecture 13 (Thu 15 Feb).  Covered:
+  * Kernel Density Estimation (F & B Ch 6, Ivezić, Sec 6.1.1)
   * Monte Carlo error
   * Importance Sampling
   * Case Study: Bayesian Estimates of the Milky Way Galaxy Mass
@@ -95,7 +96,7 @@ Lecture 13 (Thu 15 Feb).  Covered:
        MNRAS = Monthly Notices of the Royal Astronomical Society
        
 Lecture 14 (Sat 17 Feb).  Covered:
-  * Kernel Density Estimation (F & B, Ch 6)
+  * Kernel Density Estimation (F & B Ch 6, Ivezić, Sec 6.1.1)
   * Review Bayesian Estimates of the Milky Way Galaxy Mass Case Study in more detail
   * Code Demonstration using Importance Sampling
   * Highest Posterior Density credible intervals
