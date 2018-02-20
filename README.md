@@ -95,6 +95,10 @@ Lecture 13 (Thu 15 Feb).  Covered:
   * reference: Patel, Besla & Mandel. 2017, MNRAS, 468, 3428  
        MNRAS = Monthly Notices of the Royal Astronomical Society
        
+Example Class (Fri 16 Feb):
+  * Solved Example Sheet 1, problems 1 & 2
+  * Bootstrap Sampling     
+       
 Lecture 14 (Sat 17 Feb).  Covered:
   * Kernel Density Estimation (F & B Ch 6, Ivezić, Sec 6.1.1)
   * Review Bayesian Estimates of the Milky Way Galaxy Mass Case Study in more detail
